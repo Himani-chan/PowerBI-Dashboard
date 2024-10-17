@@ -1,1 +1,20 @@
+This is an "E-Commerce dashboard"... 💱💰
+In this dashboard we have two tables ie. Details and Orders (that are connected by order ID). The useful insights in this dashboard were :=
+
+The SUM of amount is 438k💰
+The SUM of profit is 37k 📈
+The QUANTITY of Total Orders is 5615💲
+The MAXIMUM amount to out the orders is 5729🪙
+
+A donut chart is created to show "SUM OF QUANTITY BY PAYMENT MODE" with cash on delivery containing maximum percentage of 43.74% 🤑
+
+A column chart is created to show the "SUM OF PROFIT  BY YEARS , QUARTERS and MONTHS “ with green showing the profit and red colour showing the loss 📊
+
+
+Another doughnut chart is *SUM OF QUANTITY BY CATEGORY" showing 62.6% of total quantity is from clothing 💸
+
+A bar chart is created to show the "SUM OF PROFIT BY SUB - CATEGORY" showing phones peaked with the sum of profit 2454📱
+
+A bar chart is created to show SUM of profit by STATE 📊 and another bar chart is to show SUM of profit by CUSTOMER-NAMES 📊
+
 
