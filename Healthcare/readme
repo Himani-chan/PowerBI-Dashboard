@@ -1,0 +1,18 @@
+1) Bed Occupancy Trends:
+Similar to the previous dashboard, private beds (~4K) have the highest occupancy, followed by general beds (~2K), with ICU beds (~1K) having lower usage.
+
+2) Diagnosis Distribution:
+Viral infections are the leading condition, with Flu and Malaria showing notable prevalence.
+Typhoid, Pneumonia, and Fractures remain the least common diagnoses, indicating focused or less frequent cases.
+
+3) Billing and Health Insurance:
+Total Billing Amount: Reached 190M over the year.
+Health Insurance Coverage: A significant portion of billing (171.39M) indicates strong insurance utilization.
+Billing peaks early in the year (January: ~29M) and trends downward before stabilizing mid-year. A slight recovery is observed towards the year-end (December: ~15.5M).
+
+4) Doctor Feedback:
+The feedback is evenly distributed across all doctors, showing a consistent quality of care and patient engagement.
+
+5) Operational Dates:
+Admission, discharge, and coverage periods are accurately detailed. This streamlined workflow likely contributes to patient throughput and satisfaction.
+
